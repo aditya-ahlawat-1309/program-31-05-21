@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">demoapply</string>
+    <string name="title_activity_main">demoapply</string>
+    <string name="package_name">com.demoapply.app</string>
+    <string name="custom_url_scheme">com.demoapply.app</string>
+</resources>

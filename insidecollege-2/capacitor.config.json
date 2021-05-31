@@ -1,0 +1,13 @@
+{
+  "appId": "com.demoapply.app",
+  "appName": "demoapply",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
